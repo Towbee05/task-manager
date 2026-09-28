@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TaskManager/TaskManager.csproj" />
+  <Project Path="TaskManagerMigrator/TaskManagerMigrator.csproj" />
+</Solution>
